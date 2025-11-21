@@ -8,7 +8,7 @@
 
 ### Changes Made
 <!-- List the changes you made to fix the bug -->
-- 
+- <!-- Add your changes here -->
 
 ### Testing
 <!-- Describe how you tested this fix -->

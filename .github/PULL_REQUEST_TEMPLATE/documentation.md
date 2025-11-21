@@ -10,11 +10,11 @@
 - [ ] Code comments
 - [ ] User guide
 - [ ] Developer guide
-- [ ] Other: 
+- [ ] Other: <!-- Specify type -->
 
 ### Changes Made
 <!-- List the documentation changes -->
-- 
+- <!-- Add your changes here -->
 
 ### Related Issues
 <!-- Link to any related issues -->

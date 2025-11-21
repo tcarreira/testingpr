@@ -8,7 +8,7 @@
 
 ### Changes Made
 <!-- List the refactoring changes -->
-- 
+- <!-- Add your changes here -->
 
 ### Impact
 <!-- Describe the impact of this refactoring -->
